@@ -1,0 +1,2 @@
+# bootcamp-config-server-details
+
